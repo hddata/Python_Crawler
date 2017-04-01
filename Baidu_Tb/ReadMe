@@ -1,0 +1,4 @@
+创建scrapy项目，抓取http://tieba.baidu.com/f?kw=%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB&ie=utf-8 网络爬虫吧的帖子
+抓取内容：1. 帖子标题；2. 帖子作者；3. 帖子回复数
+
+
