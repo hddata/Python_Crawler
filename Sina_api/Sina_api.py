@@ -3,7 +3,7 @@ import webbrowser#python内置的包
 import json
 
 APP_KEY = '2998674744'  
-APP_SECRET = 'e91f3899e27e6533e2988589af9c3414'  
+APP_SECRET = 'e91f389**************3414'  
 CALLBACK_URL = 'http://f.dataguru.cn/'  
   
 #利用官方微博SDK  
